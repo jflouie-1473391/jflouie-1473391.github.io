@@ -1,0 +1,32 @@
+body{
+background-image: url('pool_table_@2X.png'); 
+}
+
+#Header{
+	border: dotted 4px white;
+}
+
+#LeftNav ul{
+	list-style-type: none; 
+	
+}
+
+}
+#LeftNav{
+	border:dotted 4px white;
+	width: 400px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-bottom: 8px; 
+
+}
+
+}
+
+#RightNav{
+	border: dotted 4px white;
+	width: 700px;
+	text-align: right;
+	padding: 15px;
+	
+}
